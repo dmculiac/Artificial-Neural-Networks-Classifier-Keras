@@ -1,7 +1,7 @@
 # Artificial-Neural-Networks-Classifier
 
 <p align="center">
-  <img src = "https://cdn.elearningindustry.com/wp-content/uploads/2016/12/02e1c64247d76f59535d1d123ad8a3c5.jpeg", width = 200>
+  <img src = "https://cdn.elearningindustry.com/wp-content/uploads/2016/12/02e1c64247d76f59535d1d123ad8a3c5.jpeg">
  </p>
 
 
