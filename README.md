@@ -1,5 +1,10 @@
 # Artificial-Neural-Networks-Classifier
 
+<p align="center">
+  <img src = "https://cdn.elearningindustry.com/wp-content/uploads/2016/12/02e1c64247d76f59535d1d123ad8a3c5.jpeg", width = 200>
+ </p>
+
+
 In this project we're dealing with a binary classification problem. We already have baseline scores having run classifiers from the sklearn suite on the dataset. What we're trying to do here is to see if we can do better than the scores resulting from the out of the box Python ML algorithms (Decision Tree, Random Forest, NeuralNet, AdaBoost, XGBoost).
 
 #
